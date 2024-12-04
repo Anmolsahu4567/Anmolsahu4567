@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi 👋, I'm Anmol Sahu</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://github.com/Gyanendratiwari98/Gyanendratiwari98/blob/main/image.png">
@@ -26,4 +24,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gyanendratiwari98&show_icons=true&locale=en" alt="gyanendratiwari98" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gyanendratiwari98&" alt="gyanendratiwari98" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anmolsahu4567&" alt="Anmolsahu4567" /></p>
